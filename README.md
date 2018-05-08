@@ -68,4 +68,4 @@ Subjects first performed the isolated task (160 trials) and then the social task
 
 *session*: only for EXP4, social run
 
-This data is being released with a permissive open-source license. You should feel free to use or adapt the code as long as you follow the terms of the license. If you make use of the data, we would appreciate that you cite the paper.
+This data is being released with a permissive open-source license. If you make use of the data, we would appreciate that you cite the paper.
