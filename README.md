@@ -32,7 +32,7 @@ Subjects first performed the isolated task (160 trials) and then the social task
 
 **The data files contain the following information**
 
-*group*: group identifier
+*group*: group identifier if applicable
 
 *sbjID*: subject identifier
 
