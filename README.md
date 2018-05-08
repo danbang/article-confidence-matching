@@ -33,20 +33,37 @@ Participants first performed the isolated task (160 trials) and then the social 
 **The data files contain the following information**
 
 *group*: group identifier
+
 *sbjID*: subject identifier
+
 *trial*: trial number
+
 *stimInterval*: target interval
+
 *stimContrast*: target contrast
+
 *sbjConfidence*: subject confidence
+
 *sbjChoice*: subject choice 
+
 *sbjAcc*: subject accuracy
+
 *otherConfidence*: partner confidence if applicable
+
 *otherChoice*: partner choice if applicable
+
 *otherAcc*: partner accuracy if applicable
+
 *dyadChoice*: group choice if applicable
+
 *dyadAcc*: group accuracy if applicable
+
 *order*: only for EXP1, order of isolated and social tasks [1: isolated first, 2: social first]
+
 *noise*: only for EXP4, fitted subject noise
+
 *bias*: only for EXP4, fitted subject bias
+
 *condition*: only for EXP4, partner condition [1: AL-CL; 2: AL-CH; 3: AH-CL; 4: AH-CH]
+
 *session*: only for EXP4, social run
