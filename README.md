@@ -67,3 +67,5 @@ Participants first performed the isolated task (160 trials) and then the social 
 *condition*: only for EXP4, partner condition [1: AL-CL; 2: AL-CH; 3: AH-CL; 4: AH-CH]
 
 *session*: only for EXP4, social run
+
+This data is being released with a permissive open-source license. You should feel free to use or adapt the code as long as you follow the terms of the license. If you make use of the data, we would appreciate that you cite the paper.
